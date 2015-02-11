@@ -1,5 +1,7 @@
 # Appllllw
 
+[![Gem Version](https://badge.fury.io/rb/appllllw.svg)](http://badge.fury.io/rb/appllllw)
+
 TODO: Write a gem description
 
 ## Installation
